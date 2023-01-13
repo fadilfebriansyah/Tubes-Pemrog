@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="activity_insert" type="id" />
+    <item name="edtNama" type="id" />
+    <item name="edtNomor" type="id" />
+    <item name="Linearlayout2" type="id" />
+    <item name="btInserting" type="id" />
+    <item name="btBackGo" type="id" />
+</resources>
